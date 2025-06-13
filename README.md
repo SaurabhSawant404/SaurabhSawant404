@@ -58,7 +58,6 @@
 ---
 
 ## 📊 GitHub Stats:
-## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSawant404&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" height="150px" alt="GitHub Stats"/>
   &nbsp;&nbsp;
