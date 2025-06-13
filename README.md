@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSawant404&theme=github_dark&hide_border=false&count_private=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSawant404&theme=github_dark&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSawant404&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSawant404&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
